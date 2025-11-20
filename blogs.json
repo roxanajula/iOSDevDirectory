@@ -958,7 +958,7 @@
             "title": "Cocoacasts",
             "author": "Bart Jacobs",
             "site_url": "https://cocoacasts.com/blog",
-            "feed_url": "https://cocoacasts.com/feed",
+            "feed_url": "https://cocoacasts.com/feed.rss",
             "twitter_url": "https://twitter.com/_bartjacobs"
           },
           {
@@ -1184,8 +1184,8 @@
           {
             "title": "Danijela Vrzan's Blog",
             "author": "Danijela Vrzan",
-            "site_url": "https://www.danijelavrzan.com/",
-            "feed_url": "https://www.danijelavrzan.com/feed.rss",
+            "site_url": "https://danijelavrzan.com/",
+            "feed_url": "https://danijelavrzan.com/feed.rss",
             "twitter_url": "https://twitter.com/dvrzan"
           },
           {
@@ -2696,7 +2696,7 @@
             "title": "Matt Massicotte's Blog",
             "author": "Matt Massicotte",
             "site_url": "https://www.massicotte.org/",
-            "feed_url": "https://www.massicotte.org/feed.xml",
+            "feed_url": "https://www.massicotte.org/atom.xml",
             "twitter_url": "https://twitter.com/mattie"
           },
           {
