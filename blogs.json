@@ -958,7 +958,7 @@
             "title": "Cocoacasts",
             "author": "Bart Jacobs",
             "site_url": "https://cocoacasts.com/blog",
-            "feed_url": "https://cocoacasts.com/feed",
+            "feed_url": "https://cocoacasts.com/feed.rss",
             "twitter_url": "https://twitter.com/_bartjacobs"
           },
           {
@@ -1184,8 +1184,8 @@
           {
             "title": "Danijela Vrzan's Blog",
             "author": "Danijela Vrzan",
-            "site_url": "https://www.danijelavrzan.com/",
-            "feed_url": "https://www.danijelavrzan.com/feed.rss",
+            "site_url": "https://danijelavrzan.com/",
+            "feed_url": "https://danijelavrzan.com/feed.rss",
             "twitter_url": "https://twitter.com/dvrzan"
           },
           {
@@ -2371,7 +2371,7 @@
             "title": "Krzysztof Zabłocki’s Blog",
             "author": "Krzysztof Zabłocki",
             "site_url": "https://merowing.info/",
-            "feed_url": "https://merowing.info/rss/",
+            "feed_url": "https://merowing.info/posts/rss",
             "twitter_url": "https://twitter.com/merowing_"
           },
           {
@@ -2696,7 +2696,7 @@
             "title": "Matt Massicotte's Blog",
             "author": "Matt Massicotte",
             "site_url": "https://www.massicotte.org/",
-            "feed_url": "https://www.massicotte.org/feed.xml",
+            "feed_url": "https://www.massicotte.org/atom.xml",
             "twitter_url": "https://twitter.com/mattie"
           },
           {
@@ -7056,7 +7056,7 @@
           {
             "title": "ZhgChgLi on Medium",
             "author": "ZhongCheng Li",
-            "site_url": "https://blog.zhgchg.li/",
+            "site_url": "https://medium.com/@zhgchgli",
             "feed_url": "https://medium.com/feed/@zhgchgli",
             "twitter_url": "https://twitter.com/zhgchgli"
           }
